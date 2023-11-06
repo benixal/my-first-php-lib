@@ -1,0 +1,19 @@
+{
+    "name": "benixal/my-lib",
+    "description": "just for fun",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ben\\MyLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ben",
+            "email": "benixalize@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
