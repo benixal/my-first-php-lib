@@ -6,7 +6,7 @@ class ThisIsBen {
 
     function sayHi() {
 
-        return "Hi ".rand(0,1000);
+        return "Hello ".rand(0,1000);
 
     }
 
